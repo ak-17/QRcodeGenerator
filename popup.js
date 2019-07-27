@@ -5,7 +5,7 @@ $(function() {
         width: 256,
         height: 256,
         colorDark : '#000000',
-        colorLight: '#FFC0CB',
+        colorLight: '#FFFFFF',
         correctLevel: QRCode.CorrectLevel.H
     });
     qrcode.makeCode(tabUrl);
@@ -13,6 +13,6 @@ $(function() {
 
 
 
-chrome.tabs.query({'active':true}, function(tabs) {
+chrome.tabs.query({'active':true,'currentWindow':true}, function(tabs) {
     tabUrl = tabs[0].url;
 })
