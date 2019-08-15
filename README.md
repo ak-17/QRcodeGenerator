@@ -2,7 +2,7 @@
 
 Built with ❤︎ and :coffee:by  [Akshay](https://github.com/ak-17)
 
-This Chrome extension generates QR Code of the current URL in the browser to scan and continue browsing in other portable devices (mobile).
+This Chrome extension generates QR Code of the current URL in the browser to scan and continue browsing in other devices (mobile).
 
 ## How To Install ##
 - download the repository
