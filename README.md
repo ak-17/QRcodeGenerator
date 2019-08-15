@@ -1,5 +1,7 @@
 # URL to QR Code Generator #
 
+Built with ❤︎ and :coffee:by  [Akshay](https://github.com/ak-17)
+
 This Chrome extension generates QR Code of the current URL in the browser to scan and continue browsing in other portable devices (mobile).
 
 ## How To Install ##
