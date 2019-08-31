@@ -2,6 +2,8 @@
 
 Built with ❤︎ and :coffee:by  [Akshay](https://github.com/ak-17)
 
+![alt text](https://raw.githubusercontent.com/ak-17/QRcodeGenerator/master/images/QRScanner.png)
+
 This Chrome extension generates QR Code of the current URL in the browser to scan and continue browsing in other devices (mobile).
 
 ## How To Install ##
